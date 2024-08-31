@@ -1,0 +1,31 @@
+*{
+    margin: 0% ;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header img{
+width: 9vw; 
+margin: 2em;
+
+}
+
+
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.banner img{
+    border-radius: 1em;
+    width: 50%;
+    -webkit-box-shadow: 10px -5px 39px 9px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px -5px 39px 9px rgba(0,0,0,0.75);
+box-shadow: 10px -5px 39px 9px rgba(0,0,0,0.75)
+
+}
